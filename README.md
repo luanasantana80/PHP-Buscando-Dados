@@ -5,10 +5,6 @@
 ## Descrição
 Bem-vindo ao repositório "Java Code Examples Repository"! Este é um repositório que contém uma coleção de exemplos de código em Java, abrangendo diversos conceitos e tópicos da linguagem. O objetivo principal é ajudar você a aprender e aprimorar suas habilidades em programação Java.
 
-## Exemplos de Código
-- **Exemplo 1**: Descrição breve do exemplo e o que ele demonstra.
-- **Exemplo 2**: Descrição breve do exemplo e o que ele demonstra.
-- **Exemplo 3**: Descrição breve do exemplo e o que ele demonstra.
 
 ## Como Utilizar
 Siga as etapas abaixo para utilizar o repositório:
